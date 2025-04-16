@@ -13,3 +13,7 @@ This system checks whether a drone's planned waypoint mission is conflict-free b
 ## Setup
 ```bash
 pip install matplotlib
+
+## Result
+
+![image](https://github.com/user-attachments/assets/849cb7a5-1438-4bb4-a94a-d020ccf82aee)
